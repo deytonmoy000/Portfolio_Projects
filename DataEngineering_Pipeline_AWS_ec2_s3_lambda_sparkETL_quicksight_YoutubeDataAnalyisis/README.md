@@ -1,4 +1,4 @@
-# Complete Data Engineering Pipeline ON AWS (EC2, S3) including Data Cleaning (AWS Lambda function), Data Transformation (AWS Spark ETL Jobs), Database Update (Crawler, Athena) and Data Analysi (AWS QuickSight)
+# Complete Data Engineering Pipeline ON AWS (EC2, S3) including Data Cleaning (AWS Lambda function), Data Transformation (AWS Spark ETL Jobs), Database Update (Crawler, Athena) and Data Analysis (AWS QuickSight)
 
 ## Tasks Performed:
 
