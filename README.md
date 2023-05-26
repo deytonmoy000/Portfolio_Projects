@@ -4,7 +4,7 @@
 
 - **DataAnalysis_SQL_Tableau_Covid19 ([link](DataAnalysis_SQL_Tableau_Covid19)):** Data Analysis (**SQL**) and Visualization (**Tableau**) of Covid-19 (upto May'23).
 
-- **Data Cleaning of the Nashville Housing Data using SQL ([link](DataCleaning_SQL_NashvilleHousing)):** Data Cleaning of the Nashville Housing Data Using **SQL**.
+- **DataCleaning_SQL_NashvilleHousing ([link](DataCleaning_SQL_NashvilleHousing)):** Data Cleaning of the Nashville Housing Data Using **SQL**.
 
 - **DataCorrelation_Python_Movies ([link](DataCorrelation_Python_Movies)):** Data Correlation in Movie Industry Data Using **Python**.
 
