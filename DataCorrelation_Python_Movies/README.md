@@ -1,4 +1,4 @@
-# DATA CORRELATION ON MOVIE INDUSTRY DATA USING PYTHON
+# DATA CORRELATION IN MOVIE INDUSTRY DATA USING PYTHON
 
 ##### NOTE: The csv file "movies.csv" has been downloaded from "https://www.kaggle.com/datasets/danielgrijalvas/movies".
 ##### The following steps are taken to analyze the data after it was downloaded and placed inside the same directory as the notebook.
