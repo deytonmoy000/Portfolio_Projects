@@ -1,4 +1,4 @@
-# Data Cleaning of the Nashville Housing Data
+# Data Cleaning of the Nashville Housing Data using SQL
 
 *Data Source: [Kaggle](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data?resource=download)
 
