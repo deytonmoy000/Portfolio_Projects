@@ -1,6 +1,6 @@
 # Data Science and Engineering Project Portfolio
 
-## Projects:
+## Directories:
 
 - **DataAnalysis_SQL_Tableau_Covid19 ([link](DataAnalysis_SQL_Tableau_Covid19)):** Data Analysis (**SQL**) and Visualization (**Tableau**) of Covid-19 (upto May'23).
 
