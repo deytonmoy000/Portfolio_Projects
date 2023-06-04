@@ -1,4 +1,4 @@
-# Customer Segmentation using Unsupervised Learning (Python)
+# Exploratory Data Analysis (EDA) for Mall Customers Segmentation using **Unsupervised Learning (SKLearn KMeans Clustering)** and **Python Pandas** in order to determine target demographics for promotional campaigns. 
 
 ##### The data for this project was downloaded from "https://www.kaggle.com/datasets/mosesmoncy/mall-customerscsv".
 
