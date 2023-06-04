@@ -11,3 +11,4 @@
 - **DataEngineering_Pipeline_YoutubeDataAnalyisis ([link](DataEngineering_Pipeline_YoutubeDataAnalyisis)):** Complete Data Engineering Pipeline ON **AWS (EC2, S3)** including Data Cleaning (**AWS Lambda** function), Data Transformation (**AWS Spark ETL** Jobs), Database Update (**Crawler, Athena**) and Data Analysis (**AWS QuickSight**).
 
 - **DateEngineering_Kafka_RealTime_StockMarket_DBUpdate ([link](DateEngineering_Kafka_RealTime_StockMarket_DBUpdate)):** Data Engineering Pipeline using **Apache Kafka** (Producer, Consumer) and **AWS (EC2, S3)** for **Real-Time** Database Update (**Crawler, Athena**).
+- **EDA_KMeans_Python_MallCustomers([link](EDA_KMeans_Python_MallCustomers)):** Exploratory Data Analysis for Mall Customers Segmentation using **Unsupervised Learning (KMeans Clustering)** in order to determine target demographics for promotional campaigns. 
