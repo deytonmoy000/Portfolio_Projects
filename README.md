@@ -14,6 +14,6 @@
 
 - **EDA_KMeans_Python_MallCustomers([link](EDA_KMeans_Python_MallCustomers)):** Exploratory Data Analysis (EDA) for Mall Customers Segmentation using **Unsupervised Learning (SKLearn KMeans Clustering)** and **Python Pandas** in order to determine target demographics for promotional campaigns. 
 
-- **MachineLearning_StockMarketPrediction([link](MachineLearning_StockMarketPrediction)):** Predicting the trend in stock market using **Random Forest (Machine Learning)**.
-
 - **LSTM_Conv1D_GRU_TemperatureForecasting([link](LSTM_Conv1D_GRU_TemperatureForecasting)):** Forecasting the temperature in a time-series data using LSTM, Conv1D and GRU models.
+
+- **MachineLearning_StockMarketPrediction([link](MachineLearning_StockMarketPrediction)):** Predicting the trend in stock market using **Random Forest (Machine Learning)**.
