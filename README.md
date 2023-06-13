@@ -14,4 +14,4 @@
 
 - **EDA_KMeans_Python_MallCustomers([link](EDA_KMeans_Python_MallCustomers)):** Exploratory Data Analysis (EDA) for Mall Customers Segmentation using **Unsupervised Learning (SKLearn KMeans Clustering)** and **Python Pandas** in order to determine target demographics for promotional campaigns. 
 
-- - **MachineLearning_StockMarketPrediction([link](MachineLearning_StockMarketPrediction)):** Using **Random Forest (Machine Learning)** in order to predict the trend in stock market.
+- **MachineLearning_StockMarketPrediction([link](MachineLearning_StockMarketPrediction)):** Using **Random Forest (Machine Learning)** in order to predict the trend in stock market.
