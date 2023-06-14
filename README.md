@@ -18,6 +18,6 @@
 
 - **[LSTM_Conv1D_GRU_TemperatureForecasting](LSTM_Conv1D_GRU_TemperatureForecasting):** Forecasting the temperature in a time-series data using LSTM, Conv1D and GRU models.
 
-- **[RandomForest_MachineLearning_EPL_MatchPrediction](RandomForest_MachineLearning_EPL_MatchPrediction):** Predicting the outcome of English Premier League matches using **Random Forest (Machine Learning)** model with additional fine-tuning using rolling averages from previous performances. Also includes scraping the data from [https://fbref.com](https://fbref.com).
+- **[RandomForest_EPL_MatchPrediction](RandomForest_MachineLearning_EPL_MatchPrediction):** Predicting the outcome of English Premier League matches using **Random Forest (Machine Learning)** model with additional fine-tuning using rolling averages from previous performances. Also includes scraping the data from [https://fbref.com](https://fbref.com).
 
-- **[RandomForest_MachineLearning_StockMarketPrediction](MachineLearning_StockMarketPrediction):** Predicting the trend in stock market using **Random Forest (Machine Learning)**.
+- **[RandomForest_StockMarketPrediction](MachineLearning_StockMarketPrediction):** Predicting the trend in stock market using **Random Forest (Machine Learning)**.
