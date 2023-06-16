@@ -2,17 +2,17 @@
 
 ## Directories:
 
-- **[DataAnalysis_SQL_Tableau_Covid19](DataAnalysis_SQL_Tableau_Covid19):** Data Analysis (**SQL**) and Visualization (**Tableau**) of Covid-19 (upto May'23).
+- **[DataAnalysis_Visualization_SQL_Tableau_Covid19](DataAnalysis_Visualization_SQL_Tableau_Covid19):** Data Analysis (**SQL**) and Visualization (**Tableau**) of Covid-19 (upto May'23).
 
 - **[DataCleaning_SQL_NashvilleHousing](DataCleaning_SQL_NashvilleHousing):** Data Cleaning of the Nashville Housing Data Using **SQL**.
 
 - **[DataCorrelation_Python_Movies](DataCorrelation_Python_Movies):** Data Correlation in Movie Industry Data Using **Python**.
 
-- **[DataEngineering_Pipeline_YoutubeDataAnalyisis](DataEngineering_Pipeline_YoutubeDataAnalyisis):** Complete Data Engineering Pipeline ON **AWS (EC2, S3)** including Data Cleaning (**AWS Lambda** function), Data Transformation (**AWS Spark ETL** Jobs), Database Update (**Crawler, Athena**) and Data Analysis (**AWS QuickSight**).
+- **[DataEngineering_AWS_Pipeline_YoutubeDataAnalyisis](DataEngineering_AWS_Pipeline_YoutubeDataAnalyisis):** Complete Data Engineering Pipeline ON **AWS (EC2, S3)** including Data Cleaning (**AWS Lambda** function), Data Transformation (**AWS Spark ETL** Jobs), Database Update (**Crawler, Athena**) and Data Analysis (**AWS QuickSight**).
 
-- **[DateEngineering_Kafka_RealTime_StockMarket_DBUpdate](DateEngineering_Kafka_RealTime_StockMarket_DBUpdate):** Data Engineering Pipeline using **Apache Kafka** (Producer, Consumer) and **AWS (EC2, S3)** for **Real-Time** Database Update (**Crawler, Athena**).
+- **[DateEngineering_AWS_Kafka_RealTime_StockMarket_DBUpdate](DateEngineering_AWS_Kafka_RealTime_StockMarket_DBUpdate):** Data Engineering Pipeline using **Apache Kafka** (Producer, Consumer) and **AWS (EC2, S3)** for **Real-Time** Database Update (**Crawler, Athena**).
 
-- **[EDA_KMeans_Python_MallCustomers](EDA_KMeans_Python_MallCustomers):** Exploratory Data Analysis (EDA) for Mall Customers Segmentation using **Unsupervised Learning (SKLearn KMeans Clustering)** and **Python Pandas** in order to determine target demographics for promotional campaigns. 
+- **[KMeansClustering__MallCustomers_Segmentation](KMeansClustering__MallCustomers_Segmentation):** Exploratory Data Analysis (EDA) for Mall Customers Segmentation using **Unsupervised Learning (SKLearn KMeans Clustering)** and **Python Pandas** in order to determine target demographics for promotional campaigns. 
 
 - **[LSTM_MultivariateStockPrediction](LSTM_MultivariateStockPrediction):** Multivariate Stock Value (NASDAQ) prediction on a time-series data using Long-Short-Term-Memory (LSTM).
 
