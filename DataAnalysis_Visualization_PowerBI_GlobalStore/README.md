@@ -1,2 +1,2 @@
-# Data Analysis and Interactive Dashboard Visualization using Power BI on a Global Store Sales data ([dashboard link](https://app.powerbi.com/links/jPRqYBTnxi?ctid=a36450eb-db06-42a7-8d1b-026719f701e3&pbi_source=linkShare)).
+# Data Analysis and Interactive Dashboard Visualization using Power BI on a Global Super Store Sales data ([dashboard link](https://app.powerbi.com/links/jPRqYBTnxi?ctid=a36450eb-db06-42a7-8d1b-026719f701e3&pbi_source=linkShare)).
 [![Global Store Sales Power-BI Interactive DashBoard](GlobalStore_SalesAnalysis_PowerBI.png)](GlobalStore_SalesAnalysis_PowerBI.pdf)

@@ -16,7 +16,7 @@
 - **Data Analysis / Visualization**
   - **[DataAnalysis_Visualization_SQL_Tableau_Covid19](DataAnalysis_Visualization_SQL_Tableau_Covid19):** Data Analysis (**SQL**) and Interactive Dashboard Visualization (**Tableau**) of Covid-19 (upto May'23).
 
-  - **[DataAnalysis_Visualization_PowerBI_GlobalStore](DataAnalysis_Visualization_PowerBI_GlobalStore):** Data Analysis and Interactive Dashboard Visualization using **Power BI** on a Global Store sales data ([dashboard link](https://app.powerbi.com/links/jPRqYBTnxi?ctid=a36450eb-db06-42a7-8d1b-026719f701e3&pbi_source=linkShare)).
+  - **[DataAnalysis_Visualization_PowerBI_GlobalStore](DataAnalysis_Visualization_PowerBI_GlobalStore):** Data Analysis and Interactive Dashboard Visualization using **Power BI** on a Global SuperStore sales data ([dashboard link](https://app.powerbi.com/links/jPRqYBTnxi?ctid=a36450eb-db06-42a7-8d1b-026719f701e3&pbi_source=linkShare)).
 
   - **[DataCleaning_SQL_NashvilleHousing](DataCleaning_SQL_NashvilleHousing):** Data Cleaning of the Nashville Housing Data Using **SQL**.
 
