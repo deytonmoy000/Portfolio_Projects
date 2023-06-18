@@ -1,0 +1,2 @@
+# Data Analysis (SQL) and Interactive Dashboard Visualization (Power Bi) of a Global Store Sales data [dashboard link](https://app.powerbi.com/links/jPRqYBTnxi?ctid=a36450eb-db06-42a7-8d1b-026719f701e3&pbi_source=linkShare).
+[![Global Store Sales Power BI DashBoard](GlobalStore_SalesAnalysis_powerBI.png)](GlobalStore_SalesAnalysis_PowerBI.pdf)

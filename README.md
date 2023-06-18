@@ -2,7 +2,9 @@
 
 ## Directories:
 
-- **[DataAnalysis_Visualization_SQL_Tableau_Covid19](DataAnalysis_Visualization_SQL_Tableau_Covid19):** Data Analysis (**SQL**) and Visualization (**Tableau**) of Covid-19 (upto May'23).
+- **[DataAnalysis_Visualization_SQL_Tableau_Covid19](DataAnalysis_Visualization_SQL_Tableau_Covid19):** Data Analysis (**SQL**) and Interactive Dashboard Visualization (**Tableau**) of Covid-19 (upto May'23).
+
+- **[DataAnalysis_PowerBI_GlobalStore](DataAnalysis_PowerBI_GlobalStore):** Data Analysis and  Interactive Dashboard Visualization (**Power BI**) of a Global Store sales data ([dashboard link](https://app.powerbi.com/links/jPRqYBTnxi?ctid=a36450eb-db06-42a7-8d1b-026719f701e3&pbi_source=linkShare)).
 
 - **[DataCleaning_SQL_NashvilleHousing](DataCleaning_SQL_NashvilleHousing):** Data Cleaning of the Nashville Housing Data Using **SQL**.
 
@@ -21,3 +23,4 @@
 - **[RandomForest_EPL_MatchPrediction](RandomForest_MachineLearning_EPL_MatchPrediction):** Predicting the outcome of English Premier League matches using **Random Forest (Machine Learning)** model with additional fine-tuning using rolling averages from previous performances. Also includes scraping the data from [https://fbref.com](https://fbref.com).
 
 - **[RandomForest_StockMarketPrediction](MachineLearning_StockMarketPrediction):** Predicting the trend in stock market using **Random Forest (Machine Learning)**.
+
