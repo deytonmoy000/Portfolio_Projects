@@ -1,21 +1,31 @@
-# Data Engineering Pipeline using Apache Kafka (Producer, Consumer) and AWS (EC2, S3) for Real-Time Database Update (Crawler, Athena)
+# Stock Market Kafka Real Time Data Engineering Project
 
-## Tasks Performed:
+## Introduction 
+An End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
 
-- Instantiate/ Run a AWS Cluster (**EC2**).
+We are going to use different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
-- Start **Kafka Zookeeper**.
+## Architecture 
+<img src="architecture.jpg">
 
-- Start **Kafka Server**.
+## Technology Used
+- Programming Language - Python
 
-- Create a **Topic**.
+Amazon Web Service (AWS) Platform
+1. S3 (Simple Storage Service)
+2. Athena
+3. Glue Crawler
+4. Glue Catalog
+5. EC2
 
-- Fetch the data using a stock market API ([link](https://www.alphavantage.co/support/#api-key%22)).
 
-- Send the Data using **Kafka Producer** (*[Producer](Kafka_Producer_StreamingStockMarket.ipynb)*).
+Apache Kafka Data Pipeline Tool - https://kafka.apache.org
 
-- Receive the Data using Kafka Consumer and Store the Data in **AWS S3** (*[Consumer](Kafka_Consumer_StreamingStockMarket.ipynb)*).
 
-- Run the **AWS Glue Crawler** to automate database update.
+## Dataset Used
+Alpha Advantage Stock Market API ([link](https://www.alphavantage.co/support/#api-key%22)).
 
-- Use the **AWS Athena** for data analysis.
+The dataset contains Open, Close, Low, High, Volume data for the request Stock Indexes using the API (top 100 US Stock).
+
+Additional dataset information:
+1. Website - https://www.alphavantage.co/support/#api-key%22
