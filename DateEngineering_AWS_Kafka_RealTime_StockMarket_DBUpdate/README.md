@@ -3,20 +3,20 @@
 ## Introduction 
 An End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
 
-We are going to use different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
+We are going to use different technologies such as **Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena**, and **SQL**.
 
 ## Architecture 
 <img src="architecture.jpg">
 
 ## Technology Used
-- Programming Language - Python
+- Programming Language - **Python**
 
 Amazon Web Service (AWS) Platform
-1. S3 (Simple Storage Service)
-2. Athena
-3. Glue Crawler
-4. Glue Catalog
-5. EC2
+1. **S3** (Simple Storage Service)
+2. **Athena**
+3. **Glue Crawler**
+4. **Glue Catalog**
+5. **EC2**
 
 
 Apache Kafka Data Pipeline Tool - https://kafka.apache.org

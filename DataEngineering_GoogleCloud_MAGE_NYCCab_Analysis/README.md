@@ -2,22 +2,22 @@
 
 ## Introduction
 
-The goal of this project is to perform data analytics on NYC Tax Service data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+The goal of this project is to perform data analytics on NYC Tax Service data using various tools and technologies, including **GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery**, and **Looker Studio**.
 
 ## Architecture 
 <img src="architecture.jpg">
 
 ## Technology Used
-- Programming Language - Python
-- Data Analytics Language - SQL
+- Programming Language - **Python**
+- Data Analytics Language - **SQL**
 
 Google Cloud Platform
-1. Google Storage
-2. Compute Instance 
-3. BigQuery
-4. Looker Studio
+1. **Google Storage**
+2. **Compute Instance** 
+3. **BigQuery**
+4. **Looker Studio**
 
-MAGE Data Pipeine Tool - https://www.mage.ai/
+**MAGE Data Pipeine** Tool - https://www.mage.ai/
 
 ## Dataset Used
 NYC Taxi Service Trip Record Data
