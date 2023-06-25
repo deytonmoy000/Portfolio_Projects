@@ -26,6 +26,8 @@
 
   - **[DataEngineering_AWS_Pipeline_YoutubeDataAnalyisis](DataEngineering_AWS_Pipeline_YoutubeDataAnalyisis):** Complete Data Engineering Pipeline ON **AWS (EC2, S3)** including Data Cleaning (**AWS Lambda** function), Data Transformation (**AWS Spark ETL** Jobs), Database Update (**Crawler, Athena**) and Data Analysis (**AWS QuickSight**).
 
+  - **[DataEngineering_GoogleCloud_MAGE_NYCCab_Analysis](DataEngineering_GoogleCloud_MAGE_NYCCab_Analysis):** Complete Data Engineering Pipeline ON **Google Cloud** including Data Store, Data Transformation and Database Update using **MAGE** and Data Analysis (**BigQuery**) and Visualization **Looker Studio**.
+  
   - **[DateEngineering_AWS_Kafka_RealTime_StockMarket_DBUpdate](DateEngineering_AWS_Kafka_RealTime_StockMarket_DBUpdate):** Data Engineering Pipeline using **Apache Kafka** (Producer, Consumer) and **AWS (EC2, S3)** for **Real-Time** Database Update (**Crawler, Athena**).
 
 
