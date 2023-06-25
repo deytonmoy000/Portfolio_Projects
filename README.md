@@ -5,9 +5,9 @@
 - **Data Science**
   - **[KMeansClustering__MallCustomers_Segmentation](KMeansClustering__MallCustomers_Segmentation):** Exploratory Data Analysis (EDA) for Mall Customers Segmentation using **Unsupervised Learning (SKLearn KMeans Clustering)** and **Python Pandas** in order to determine target demographics for promotional campaigns. 
 
-  - **[LSTM_MultivariateStockPrediction](LSTM_MultivariateStockPrediction):** Multivariate Stock Value (NASDAQ) prediction on a time-series data using Long-Short-Term-Memory (LSTM).
+  - **[LSTM_MultivariateStockPrediction](LSTM_MultivariateStockPrediction):** Multivariate Stock Value (NASDAQ) prediction on a time-series data using **Long-Short-Term-Memory (LSTM)**.
 
-  - **[LSTM_Conv1D_GRU_TemperatureForecasting](LSTM_Conv1D_GRU_TemperatureForecasting):** Forecasting the temperature in a time-series data using LSTM, Conv1D and GRU models.
+  - **[LSTM_Conv1D_GRU_TemperatureForecasting](LSTM_Conv1D_GRU_TemperatureForecasting):** Forecasting the temperature in a time-series data using **LSTM, Conv1D** and **GRU** models.
 
   - **[RandomForest_EPL_MatchPrediction](RandomForest_MachineLearning_EPL_MatchPrediction):** Predicting the outcome of English Premier League matches using **Random Forest (Machine Learning)** model with additional fine-tuning using rolling averages from previous performances. Also includes scraping the data from [https://fbref.com](https://fbref.com).
 
