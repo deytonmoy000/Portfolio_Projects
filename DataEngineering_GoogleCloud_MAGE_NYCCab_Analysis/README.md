@@ -17,7 +17,7 @@ Google Cloud Platform
 3. **BigQuery**
 4. **Looker Studio**
 
-**MAGE Data Pipeine** Tool - https://www.mage.ai/
+**MAGE Data Pipeline** Tool - https://www.mage.ai/
 
 ## Dataset Used
 NYC Taxi Service Trip Record Data
