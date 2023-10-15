@@ -2,6 +2,10 @@
 
 ## Directories:
 
+- **Computer Vision**
+
+  - **[ComputerVision_ApparelClassification_PyTorch](ComputerVision_ApparelClassification_PyTorch):** Apparel Image Classification using ResNet15 (PyTorch).
+
 - **Data Science**
   - **[KMeansClustering__MallCustomers_Segmentation](KMeansClustering__MallCustomers_Segmentation):** Exploratory Data Analysis (EDA) for Mall Customers Segmentation using **Unsupervised Learning (SKLearn KMeans Clustering)** and **Python Pandas** in order to determine target demographics for promotional campaigns. 
 
